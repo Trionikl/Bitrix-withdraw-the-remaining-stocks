@@ -6,4 +6,5 @@
 Важно: айдишники не хардкодить, код должен быть читабельным и в меру комментированным.
 
 ![alt text](screenshots/screenshot_01.png 'Первый склад') 
+
 ![alt text](screenshots/screenshot_02.png 'Второй склад') 
